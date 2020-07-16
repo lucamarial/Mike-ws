@@ -1,3 +1,13 @@
+html {
+  height: 100vh;
+  width: 100vw;
+  background: darkred;
+  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.397), rgba(0, 0, 0, 0.787)), url('./Images/red-car.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +15,4 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-}
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
 }
