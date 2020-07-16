@@ -2,10 +2,10 @@ html {
   height: 100vh;
   width: 100vw;
   background: darkred;
-  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.397), rgba(0, 0, 0, 0.787)), url('./Images/red-car.jpg');
+  background: -webkit-linear-gradient(rgba(0, 0, 0, 0.397), rgba(0, 0, 0, 0.787)), url('./Images/car.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: 50% 50%;
+  background-position: 50% 40%;
 }
 
 body {
